@@ -1,0 +1,152 @@
+show hardware <<장비 재원 확인 
+
+[라우터]ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+Product Code
+
+Cisco 2911/K9
+
+Rack Units
+
+2RU
+
+Interfaces
+
+3 integrated 10/100/1000 Ethernet ports (RJ-45 only)
+
+Expansion Slot(s)
+
+1 service module slot
+
+1 Internal Service Module slot
+
+2 onboard digital signal processor (DSP) slots
+
+4 enhanced high-speed WAN interface card slots
+
+RAM
+
+512 MB (installed) / 2 GB (max)
+
+Flash Memory
+
+256 MB (installed) / 8 GB (max)
+
+Dimensions
+
+43.8 cm x 30.5 cm x 8.9 cm
+
+Package Weight
+
+16.15 Kg
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+[L3 스위치1]
+
+WS-C3750G-24T-S data sheet
+Manufacturer	Cisco Systems, Inc
+Manufacturer Part Number	WS-C3750G-24T-S
+Product Type	Managed, Stackable 24 ports L3 Switch
+Form Factor	Fixed, Rack Mountable 1U, Stackable/Clustering
+Switch Port density - Uplinks	24 x 10/100/1000 Ethernet Ports
+Performance	Switching capacity : 32 Gbps
+Forwarding performance : 35.7 Mpps
+MAC Address Table Size	12K entries
+Jumbo Frame Support	Yes
+Max Number of Stacks	9
+Routing Protocol	RIP-1, RIP-2, HSRP, static IP routing, RIPng
+Remote Management Protocol	SNMP 1, RMON 1, RMON 2, RMON 3, RMON 9, Telnet, SNMP 3, SNMP 2c, SSH, CLI
+Authentication Method	Kerberos, Secure Shell (SSH), RADIUS, TACACS+
+Features	Flow control, full duplex capability, Layer 3 switching, auto-sensing per device, IP-routing, DHCP support, auto-negotiation, ARP support, VLAN support, auto-uplink (auto MDI/MDI-X), IGMP snooping, traffic shaping, stackable, Spanning Tree Protocol (STP) support, Rapid Spanning Tree Protocol (RSTP) support, Multiple Spanning Tree Protocol (MSTP) support, Dynamic Trunking Protocol (DTP) support, Port Aggregation Protocol (PAgP) support, Trivial File Transfer Protocol (TFTP) support, Access Control List (ACL) support, Quality of Service (QoS), RADIUS support, Jumbo Frames support, Cisco StackWise Technology, Cisco EnergyWise technology, Uni-Directional Link Detection (UDLD), Rapid Per-VLAN Spanning Tree Plus (PVRST+), Link Aggregation Control Protocol (LACP), Remote Switch Port Analyzer (RSPAN)
+Compliant Standards	IEEE 802.3, IEEE 802.3u, IEEE 802.3z, IEEE 802.1D, IEEE 802.1Q, IEEE 802.3ab, IEEE 802.1p, IEEE 802.3x, IEEE 802.3ad (LACP), IEEE 802.1w, IEEE 802.1x, IEEE 802.3ae, IEEE 802.1s
+DRAM Memory	128 MB
+Flash Memory	16 MB Flash
+LED Status Lights Indicators	Link activity, port transmission speed, port duplex mode, bandwidth utilization %, system, RPS (Redundant Power Supply)
+Connectivity / Expansion Slots
+Interfaces	24 x 10Base-T/100Base-TX/1000Base-T - RJ-45
+1 x console - RJ-45 - management
+Network stack device : 1 x x 2
+Power Supply Specifications
+Power Device	Power supply - internal
+Voltage Required	AC 120/230 V ( 50/60 Hz )
+Power Consumption Operational	165 Watt
+Features	Redundant Power System (RPS) connector
+Dimensions / Weight / Miscellaneous
+Width	44.5 cm
+Depth	32.6 cm
+Height	4.4 cm
+Weight	4.6 kg
+MTBF	210,936 hour(s)
+Compliant Standards	CE, FCC Class A certified, TUV GS, BSMI CNS 13438 Class A, CISPR 24, cUL, EN 60950, EN55022, NOM, VCCI Class A ITE, IEC 60950, EN55024, UL 60950 Third Edition, CISPR 22, CSA 22.2 No. 60950, CB, FCC Part 15, MIC, AS/NZS 3548
+System Software
+Software Included	Cisco IOS IP Base
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+[L3 스위치2]
+
+Port Quantity	24	Series	Catalyst 3560
+Software	IP Base	OSI Layer	L2
+Stacking	None	Hot Swappable Modules	No
+Hot Swappable Fans	No	Hot Swappable Power Supply	No
+PoE Compatibility	PoE	Port Speed	10/100
+Ram	128 MB	Flash	16MB
+Ports	24 10/100 + 2 SFP	Min Operating Temp	32°F
+Max Operating Temp	113°F	Jumbo Frame Support	9,018 bytes
+Predicted Reliability	224,100 hours	Mac Addresses	12K
+Vlan Ids	4K	Min Storage Temp	-13ºF
+Max Storage Temp	158ºF	Operating Humidity	10 to 85% (non-condensing)
+Storage Humidity	10 to 85% (non-condensing)	Ac Input Voltage	100 to 240 VAC
+Fans	Fanless	Unicast Routes	11K
+Acoustic Noise	42 dB	Available PoE Power	370W
+Forwarding Rate Based On 64-Byte Packets	6.5 mpps	Power Specifications	100-240VAC, 5.5-2.8A, 50-60Hz
+Uplink Interfaces	2 SFP-based Gigabit Ethernet ports	Max Active VLANS	1024
+Brand	Cisco	DRAM	128 MB
+Product Depth	11.8 in	Product Height	1.73 in
+Product Width	17.5 in	Rack Units Consumed	1RU
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+[L3 스위치 3]
+
+
+brand_ice	CISCO
+Co2 Savings	343.78
+Switch type	Managed
+Number of ports	24
+Full duplex	Yes
+MAC address table	8000 entries
+Maximum data transfer rate	0.1 Gbit/s
+Management protocols	SNMP 1, SNMP 2, RMON 1, RMON 2, SNMP 3
+Data link protocols	Ethernet/Fast Ethernet
+Internal memory	64 MB
+Power consumption (typical)	65 W
+Operating temperature (T-T)	0 - 45 °C
+Storage temperature (T-T)	-25 - 70 °C
+Operating relative humidity (H-H)	10 - 85%
+Weight	5 kg
+Dimensions (WxDxH)	445 x 366 x 44.5 mm
+Connectivity technology	Wired
+Power requirements	100 to 127/200 to 240 VAC (auto-ranging), 50 to 60 Hz
+Bundled software	Enhanced Multilayer Software Image (EMI)
+Networking features	IEEE 802.3, IEEE 802.3U, IEEE 802.3z, IEEE 802.1D, IEEE 802.1Q, IEEE 802.3ab, IEEE 802.1p, IEEE 802.3x, IEEE 802.1w, IEEE 802.1x, IEEE 802.1s
+Expansion slots	2 (2) x GBIC
+I/O ports	24 10/100 ports 2 GBIC-based Gigabit Ethernet ports
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+[L2 스위치 1]
+
+Model
+Manufacturer	Cisco
+Manufacturer Part #	WS-2950-24
+Performance
+Product Type	Switch
+Form Factor	External
+Data Link Protocol	Fast Ethernet
+Cabling Type	10BASE-T
+Standards	IEEE 802.1x
+Data Transfer Rate	100 Mbps
+Interface / Connectivity	Ethernet (RJ-45)
+Number of Port(s)	24
+Ports Type	RJ-45
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
