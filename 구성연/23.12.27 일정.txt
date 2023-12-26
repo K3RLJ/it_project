@@ -1,0 +1,10 @@
+23.12.27 일정
+	- 프로젝트 계획서 수정 (잘못 조사한/누락한 장비 정보)
+	- 프로젝트 계획서 - 설계서 병합
+	- 네트워크 장비 SSH - Radius 처리
+	- 네트워크 장비 - NMS 서버 연동
+	- NTP, DNS 서버 마무리
+		DNS - Docker : https://kinggrmoon.tistory.com/53
+		NTP - Docker : https://github.com/cturra/docker-ntp
+	- 방화벽 정책 설계 및 수정
+	- 개별/조별 보고서 작성
